@@ -1,0 +1,3 @@
+F:/Main/cppCalculator/cmake-build-debug/CMakeFiles/cppCalculator.dir
+F:/Main/cppCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Main/cppCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
